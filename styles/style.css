@@ -33,6 +33,7 @@
   z-index: 2;
   line-height: 96px;
   font-size: 102px;
+  font-weight: bold;
 }
 
 .header__subtitle {
@@ -43,6 +44,7 @@
   z-index: 2;
   line-height: 25px;
   font-size: 18px;
+  font-weight: normal;
   margin: 0;
 }
 
@@ -98,6 +100,7 @@
 .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
+  font-weight: normal;
   margin-top: 0;
   margin-bottom: 30px;
 }
@@ -123,6 +126,7 @@
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
+  font-weight: bold;
   padding: 0 0 20px;
   margin: 0;
 }
@@ -151,12 +155,14 @@
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
+  font-weight: bold;
   margin: 0;
 }
 
 .table__text {
   line-height: 1.2;
   font-size: 18px;
+  font-weight: normal;
   margin: 20px 0 0;
 }
 
@@ -170,6 +176,7 @@
 .feynman__title {
   line-height: 1.15;
   font-size: 120px;
+  font-weight: bold;
   width: 648px;
   text-align: center;
   margin: 0 auto 70px;
@@ -191,6 +198,7 @@
   color: #2f80ed;
   line-height: 51px;
   font-size: 36px;
+  font-weight: normal;
   position: absolute;
   right: 48px;
   top: 50%;
@@ -273,12 +281,14 @@
 .footer__author {
   line-height: 25px;
   font-size: 18px;
+  font-weight: normal;
   margin: 10px 0;
 }
 
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
+  font-weight: bold;
   margin: 0;
 }
 
@@ -291,6 +301,7 @@
 .footer__column-link {
   line-height: 30px;
   font-size: 18px;
+  font-weight: normal;
   color: white;
   text-decoration: none;
   display: flex;
