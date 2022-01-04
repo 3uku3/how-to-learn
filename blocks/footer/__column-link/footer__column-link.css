@@ -7,7 +7,7 @@
   display: flex;
   align-items: center;
   justify-content: left;
-  transition: opacity 1s linear ;
+  transition: opacity 1s linear;
 }
 
 .footer__column-link:hover {
